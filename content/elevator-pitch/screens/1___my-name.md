@@ -1,9 +1,7 @@
-# Hi, my name is Cristian Moreno.
+# Hi, my name is María Hernández.
 
-FullStack Javascript Developer and Community builder 👨🏻‍💻🤝 👨🏻‍🏫
+IoT Developer 👩🏼‍💻 | Maker 👩🏼‍🏭 | Community Builder 🤝🌎
 
-Producer [@commitfm](https://twitter.com/commitfm) 🎙📻
+Developer Advocate at [@Ubidots](https://ubidots.com/) 🥑💙
 
-Co-Organize of [@MedellinJS](https://twitter.com/medellinjs) [@avanet](https://twitter.com/avanet)
-
-Javascript Developer Avocado 🥑
+[@IoT Medellin](https://twitter.com/iotmedellin) Co-Organizer | [@Hacking House](https://thehackinghouse.com/) Alumni
