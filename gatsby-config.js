@@ -2,17 +2,16 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: 'khriztianmoreno | FullStack Javascript Developer 👨🏼‍💻👨🏼‍🏫| Producer @commitfm🎙📻',
-    url: 'https://khriztianmoreno.dev',
+    title: 'María Hernández | IoT Developer 👩🏼‍💻 | Maker 👩🏼‍🏭 | Community Builder 🤝🌎',
+    url: 'https://mariahernandez.dev',
     image: 'preview.png',
     language: 'en',
-    description: 'FullStack Javascript Developer and Community builder | Producer @commitfm | Co-Organize of @MedellinJS @avanet.',
+    description: 'IoT Developer and Community Builder | Developer Advocate @Ubidots | @IoT Medellin Co-Organizer',
     socialLinks: {
-      github: 'https://github.com/khriztianmoreno',
-      twitter: 'https://twitter.com/khriztianmoreno',
-      facebook: 'https://facebook.com/khriztianmoreno',
-      web: 'https://khriztianmoreno.com',
-      mailto: 'mailto:khriztianmoreno@gmail.com',
+      github: 'https://github.com/mariacarlinahernandez',
+      twitter: 'https://twitter.com/makahernandez',
+      web: 'https://www.linkedin.com/in/mariacarlinahernandezoberto/',
+      mailto: 'mailto:mariacarlinahernandez@gmail.com',
     },
   },
   plugins: [
